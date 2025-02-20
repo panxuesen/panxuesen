@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=panxuesen&theme=dark&background=0D1117)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=panxuesen&theme=dark&background=0D1117)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panxuesen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,9 +46,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" alt="访问量统计" />
-  <img src="https://wakatime.com/badge/user/waka_e39fa881-35ea-455a-9f7f-d6d0a7b8db3f.svg?style=for-the-badge&v=2" alt="编码时间统计">
+<!--   <img src="https://wakatime.com/badge/user/waka_e39fa881-35ea-455a-9f7f-d6d0a7b8db3f.svg?style=for-the-badge&v=2" alt="编码时间统计"> -->
   
 </div>
-[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=waka_e39fa881-35ea-455a-9f7f-d6d0a7b8db3f&layout=compact&theme=vue)](https://wakatime.com/@panxuesen)
 
 ✨ _Building pixel-perfect experiences since [2025]_ ✨
