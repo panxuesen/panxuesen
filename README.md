@@ -51,9 +51,9 @@
 ## 💰 支持与联系
 
 **微信赞助**  
-![微信支付](wechat-pay.jpg)
+<img src="wechat-pay.jpg" alt="微信支付" style="width: 200px;" />
 
 **技术交流**  
-![添加微信](add-wechat.jpg)
+<img src="add-wechat.jpg" alt="添加微信" style="width: 200px;" />
 
 ✨ _Building pixel-perfect experiences since [2025]_ ✨
