@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**panxuesen/panxuesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🚀 Hi! I'm [panxuesen] - Frontend Wizard 🔥
 
 <div align="center">
