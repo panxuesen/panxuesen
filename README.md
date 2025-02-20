@@ -46,8 +46,14 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=panxuesen&label=Profile+Views&color=blueviolet&style=flat-square" alt="访问量统计" />
-<!--   <img src="https://wakatime.com/badge/user/waka_e39fa881-35ea-455a-9f7f-d6d0a7b8db3f.svg?style=for-the-badge&v=2" alt="编码时间统计"> -->
-  
 </div>
+
+## 💰 支持与联系
+
+**微信赞助**  
+![微信支付](wechat-pay.jpg)
+
+**技术交流**  
+![添加微信](add-wechat.jpg)
 
 ✨ _Building pixel-perfect experiences since [2025]_ ✨
