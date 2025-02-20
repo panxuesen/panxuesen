@@ -1,4 +1,4 @@
-# 🚀 Hi! I'm [panxuesen] - Frontend Wizard 🔥
+# 🚀 Hi! I'm panxuesen - Frontend Wizard 🔥
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Tech+Blogger" alt="动态打字效果" />
