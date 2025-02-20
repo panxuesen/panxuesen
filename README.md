@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" alt="访问量统计" />
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge" alt="编码时间统计">
+  <img src="https://wakatime.com/badge/user/waka_e39fa881-35ea-455a-9f7f-d6d0a7b8db3f.svg?style=for-the-badge" alt="编码时间统计">
 </div>
 
 ✨ _Building pixel-perfect experiences since [2025]_ ✨
