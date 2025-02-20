@@ -44,10 +44,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=panxuesen&label=Profile+Views&color=blueviolet&style=flat-square" alt="访问量统计" />
-</div>
-
 ## 💰 支持与联系
 
 **微信赞助**  
@@ -55,5 +51,9 @@
 
 **技术交流**  
 <img src="add-wechat.jpg" alt="添加微信" style="width: 200px;" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=panxuesen&label=Profile+Views&color=blueviolet&style=flat-square" alt="访问量统计" />
+</div>
 
 ✨ _Building pixel-perfect experiences since [2025]_ ✨
